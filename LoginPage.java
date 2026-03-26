@@ -27,7 +27,7 @@ public class LoginPage extends Application {
         VBox root = new VBox(15, label, pinField, loginButton, messageLabel);
         root.setPadding(new Insets(40));
         root.setAlignment(Pos.CENTER);
-        root.setStyle("-fx-background-color: #f0f4ff;");
+        root.setStyle("-fx-background-color: rgb(212, 14, 47);");
 
         Scene scene = new Scene(root, 350, 250);
         primaryStage.setTitle("ATM Login");
