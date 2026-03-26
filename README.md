@@ -40,6 +40,14 @@ MiniATM/
    javac Main.java
    java Main
 
+   📸 Screenshots:-
+   
+   📊 Dashboard(Dashboard.png)
+   🔐Login System(LoginPage.png)
+   💵 Deposit Money(DepositMoney.png)
+   💰 Balance Inquir(CurrBalance.png)
+   🧾 Transaction Handling(Transactios.png)
+
 👩‍💻 Author
 Vanshika Sharma
 
