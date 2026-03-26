@@ -42,11 +42,11 @@ MiniATM/
 
    📸 Screenshots:-
    
-   📊 Dashboard(Dashboard.png)
-   🔐Login System(LoginPage.png)
-   💵 Deposit Money(DepositMoney.png)
-   💰 Balance Inquir(CurrBalance.png)
-   🧾 Transaction Handling(Transactios.png)
+   📊 Dashboard(images/Dashboard.png)
+   🔐Login System(images/LoginPage.png)
+   💵 Deposit Money(images/DepositMoney.png)
+   💰 Balance Inquir(images/CurrBalance.png)
+   🧾 Transaction Handling(images/Transactios.png)
 
 👩‍💻 Author
 Vanshika Sharma
